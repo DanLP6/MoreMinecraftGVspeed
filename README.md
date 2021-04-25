@@ -8,3 +8,9 @@ Das ist mein erster mod für minecraft Version 1.15.2, also habt verständniss f
 Discord: https://discord.gg/WYufdSeN7y
 
 Dieser Mod darf *nicht* verändert werden (Außer mit absprache!)
+
+Hier sind alle informationen über meinen Mod :)
+
+-GUI- und Mod Version
+
+https://i.imgur.com/xqQ0LBy.jpg
