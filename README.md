@@ -17,4 +17,4 @@ Hier sind alle informationen über meinen Mod :)
 
 <a href="https://imgur.com/tx22win"><img src="https://i.imgur.com/tx22win.jpg" title="source: imgur.com" /></a>
 
-# GUI Version
+GUI Version Bild
