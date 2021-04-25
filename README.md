@@ -20,3 +20,9 @@ Hier sind alle informationen über meinen Mod :)
 GUI Version Bild:
 
 Die GUI Version wird nach jedem (GUI) update geupdated
+
+<a href="https://imgur.com/xlpwjVh"><img src="https://i.imgur.com/xlpwjVh.png" title="source: imgur.com" /></a>
+
+Mod Version Bild:
+
+Die mod Version wird nach jedem update der Modifikation geändert
