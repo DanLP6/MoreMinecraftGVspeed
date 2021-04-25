@@ -39,6 +39,7 @@ Das Mob Tomlingson ist mir bei einem mod fehler entstanden, ich fand es lustig u
 # Funktionen: 
 
 Das Mob Tomlingson kann mit netherite* schießen und teilt mit rüstung ein halbes herz schaden aus, also man sollte sich in acht geben vor dem Mob
+
 Ein spawn ritual gibt es noch nicht
 
 *Netherite ist ein 1.16.x material das ich weiter unten erkläre
