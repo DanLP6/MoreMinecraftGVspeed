@@ -45,3 +45,5 @@ Ein spawn ritual gibt es noch nicht
 *Netherite ist ein 1.16.x material das ich weiter unten erkläre
 
 -------------------------------------------------------------------------------------------------------
+
+Wird bald fortgesetzt!
