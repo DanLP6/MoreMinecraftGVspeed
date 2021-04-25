@@ -13,4 +13,4 @@ Hier sind alle informationen über meinen Mod :)
 
 -GUI- und Mod Version
 
-[Imgur](https://i.imgur.com/xqQ0LBy.jpg)
+<a href="https://imgur.com/xqQ0LBy"><img src="https://i.imgur.com/xqQ0LBy.jpg" title="source: imgur.com" /></a>
