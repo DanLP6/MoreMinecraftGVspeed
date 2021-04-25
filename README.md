@@ -15,4 +15,5 @@ Hier sind alle informationen über meinen Mod :)
 
 --->GUI- und Mod Version<---
 
-<a href="https://imgur.com/xqQ0LBy"><img src="https://i.imgur.com/xqQ0LBy.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/tx22win"><img src="https://i.imgur.com/tx22win.jpg" title="source: imgur.com" /></a>
+GUI Version
