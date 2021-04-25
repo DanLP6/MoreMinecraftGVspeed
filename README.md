@@ -1,3 +1,4 @@
 # MoreMinecraftGVspeed
-My First application
-https://discord.com/api/guilds/798504024931565588/widget.json
+Hallo leute,
+
+Das ist mein erster mod für minecraft Version 1.15.2, also habt verständniss für fehler!
