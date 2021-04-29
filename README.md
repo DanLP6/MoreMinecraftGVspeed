@@ -11,7 +11,7 @@ Dieser Mod darf *nicht* verändert werden (Außer mit absprache!)
 
 Hier sind alle informationen über meinen Mod :)
 
-Alle Releases der mod ;) :  
+Alle Releases der mod ;) :  https://github.com/GVspeed/MoreMinecraftGVspeed/releases
 
 --------------------------------------------------------------------------------------------------------
 
